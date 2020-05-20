@@ -42,15 +42,21 @@
 
 ### Back-End
 - Rode `cd backend` para acessar a pasta;
+- Rode `npm init - y` para iniciar o package.json;
+- Rode `npm install -y` para instalar as dependências;
 - Rode `yarn start` ou `npm start` para executar o servidor;
 - O servidor deve ser executado para rodar as aplicações Front-End e Mobile;
 
 ### Front-End 
 - Rode `cd frontend` para acessar a pasta;
+- Rode `npm init - y` para iniciar o package.json;
+- Rode `npm install -y` para instalar as dependências;
 - Rode `yarn start` ou `npm start` para executar a aplicação web localmente;
 
 ### Mobile 
 - Rode `cd mobile` para acessar a pasta;
+- Rode `npm init - y` para iniciar o package.json;
+- Rode `npm install -y` para instalar as dependências;
 - Atualize sua baseURL dentro de src/services/api.js.
 - rode `expo start` abrir a aplicação.
 
