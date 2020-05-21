@@ -11,8 +11,8 @@
     <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/joaosoarees/be-the-hero">
   </a>
 
-  <a href="https://github.com/fariasmateuss/BeTheHero/issues">
-    <img alt="Repository issues" src="https://img.shields.io/github/issues/fariasmateuss/BeTheHero">
+  <a href="https://github.com/joaosoarees/be-the-hero/issues">
+    <img alt="Repository issues" src="https://img.shields.io/github/issues/joaosoarees/be-the-hero">
   </a>
 
   
@@ -58,7 +58,7 @@
 - Rode `npm init -y` para iniciar o package.json;
 - Rode `npm install -y` para instalar as dependências;
 - Atualize sua baseURL dentro de src/services/api.js.
-- rode `expo start` abrir a aplicação.
+- rode `yarn start` ou `npm start` abrir a aplicação.
 
 ### Teste
 - Rode `yarn test` ou `npm test` dentro da pasta backend;
