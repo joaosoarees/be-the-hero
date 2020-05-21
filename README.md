@@ -25,7 +25,7 @@
 <img src=".github/bethehero.png" />
 
 <p align="center">
-  BeTheHero é um projeto com o foco de conectar pessoas que querem contribuir
+  Be The Hero é um projeto com o foco de conectar pessoas que querem contribuir
   financeiramente para ONG's necessitadas.
 </p>
 
